@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ed33756-605f-4b80-b128-39dc36df4e48" name="Default Changelist" comment="" />
+    <list default="true" id="2ed33756-605f-4b80-b128-39dc36df4e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/baekjoon/Main_1044.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/baekjoon/팀선발.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/algorithm/baekjoon/백준_알고리즘_테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/algorithm/baekjoon/백준_알고리즘_테스트.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/baekjoon/Main_1044.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/baekjoon/백준_알고리즘_테스트.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/algorithm/baekjoon/백준_알고리즘_테스트.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +22,13 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1atZp8TQTPUbKTfg7AcNKPbyaD1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -34,9 +38,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -45,9 +50,9 @@
       <recent name="C:\Dev\SpringStudy\Algorithm\src\main\java\baekjoon" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.프로그래머스_알고리즘_테스트.송전탑_전송">
-    <configuration name="숫자나열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.baekjoon.숫자나열" />
+  <component name="RunManager" selected="JUnit.백준_알고리즘_테스트.팀선발">
+    <configuration name="팀선발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.baekjoon.팀선발" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -59,33 +64,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="프로그래머스_알고리즘_테스트.가장큰수" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.baekjoon.정렬" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.programmers.*" />
+          <option name="PATTERN" value="algorithm.baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="algorithm.programmers" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.programmers.프로그래머스_알고리즘_테스트" />
-      <option name="METHOD_NAME" value="가장큰수" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="프로그래머스_알고리즘_테스트.K번째수" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="백준_알고리즘_테스트.팀선발" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.programmers.*" />
+          <option name="PATTERN" value="algorithm.baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="algorithm.programmers" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.programmers.프로그래머스_알고리즘_테스트" />
-      <option name="METHOD_NAME" value="K번째수" />
+      <option name="PACKAGE_NAME" value="algorithm.baekjoon" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.baekjoon.백준_알고리즘_테스트" />
+      <option name="METHOD_NAME" value="팀선발" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.백준_알고리즘_테스트.팀선발" />
+        <item itemvalue="Application.팀선발" />
+        <item itemvalue="Application.정렬" />
         <item itemvalue="JUnit.프로그래머스_알고리즘_테스트.송전탑_전송" />
         <item itemvalue="JUnit.프로그래머스_알고리즘_테스트.완주하지_못한_선수" />
-        <item itemvalue="JUnit.프로그래머스_알고리즘_테스트.가장큰수" />
-        <item itemvalue="JUnit.프로그래머스_알고리즘_테스트.K번째수" />
-        <item itemvalue="Application.숫자나열" />
       </list>
     </recent_temporary>
   </component>
@@ -143,41 +145,74 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587557031007</updated>
-      <workItem from="1587557032296" duration="2595000" />
+      <workItem from="1587557032296" duration="3572000" />
+      <workItem from="1587644045974" duration="100000" />
+      <workItem from="1587644157658" duration="4539000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="182" key="#Project_Structure" timestamp="1587557663007">
+    <state x="880" y="182" key="#Project_Structure" timestamp="1587644425667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587557663007" />
+    <state x="880" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587644425667" />
     <state x="778" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587557795358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="778" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587557795358" />
-    <state width="952" height="282" key="GridCell.Tab.0.bottom" timestamp="1587559772044">
+    <state x="706" y="361" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587645245440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="952" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587559772044" />
-    <state width="952" height="282" key="GridCell.Tab.0.center" timestamp="1587559772044">
+    <state x="706" y="361" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1587645245440" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1587648536513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="952" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587559772044" />
-    <state width="952" height="282" key="GridCell.Tab.0.left" timestamp="1587559772044">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587648536513" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1587648536513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="952" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587559772044" />
-    <state width="952" height="282" key="GridCell.Tab.0.right" timestamp="1587559772044">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587648536513" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1587648536513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="952" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587559772044" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1587557951128">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587648536513" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1587648536513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587557951128" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587648536513" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1587648536513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587648536513" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1587648536513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587648536513" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1587648536513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587648536513" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1587648536513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587648536513" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1587644442459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587644442459" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/baekjoon/팀선발.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
